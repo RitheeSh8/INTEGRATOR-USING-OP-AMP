@@ -39,12 +39,13 @@ i)	SINE WAVE INPUT
 ii)  SQUARE WAVE INPUT
 <img width="847" height="553" alt="image" src="https://github.com/user-attachments/assets/ab1e5f5e-e1a5-47bf-affe-cc241b646aa5" />
 
-
 ## TABULATION:
 
+![IMG-20251029-WA0035 1](https://github.com/user-attachments/assets/2afd9aac-b4c2-4165-a149-d92673d8b7fd)
 
 ## GRAPH:
 
+![IMG-20251029-WA0036 1](https://github.com/user-attachments/assets/2b109870-e1d0-42cb-9a50-b10d4fd95822)
 
 ## RESULT:
 
